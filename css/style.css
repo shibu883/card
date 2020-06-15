@@ -1,0 +1,19 @@
+.my_pic img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	box-shadow: 
+	-webkit-box-shadow: 0px 0px 14px 6px rgba(0,0,0,0.52);
+	-moz-box-shadow: 0px 0px 14px 6px rgba(0,0,0,0.52);
+	box-shadow: 0px 0px 14px 6px rgba(0,0,0,0.52);
+}
+
+.profile-dec h3{
+	color: #fff;
+	font-size: 40px;
+}
+
+.profile-dec h5{
+	color: pink;
+	font-size: 30px;
+}
